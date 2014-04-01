@@ -10,11 +10,11 @@ While I was developing single page applications with Arcgis JS API, I was confus
 
 Application Toolbox Includes:
 
-•	Arcgis Javascript API
-•	Knockout JS
-•	Bootstrap
-•	JQuery
-•	Dojo AMD 
+*	Arcgis Javascript API
+*	Knockout JS
+*	Bootstrap
+*	JQuery
+*	Dojo AMD 
 
 tr-TR
 
